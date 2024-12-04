@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=b5e7f4&height=300&section=header&text=⛄HyunJin's%20GitHub⛄&width=100%25&animation=twinkling&fontColor=0784f9" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=b5e7f4&height=200&section=header&text=⛄HyunJin's%20GitHub⛄&width=100%25&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=0784f9" />
 
 <br>
 
@@ -9,19 +9,16 @@
 
 사람들이 이해할 수 있도록 명세서 및 설계도를 작성하고, 유지보수가 용이한 코드를 작성하기 위해 항상 고민하고 있습니다.
 
-<br>
 
 ## 🎓Educations 
 - **2024.01 ~ 2024.12** 삼성 청년 SW 아카데미(SSAFY) 11기 자바 전공 트랙 수료
 - **2017.03 ~ 2022.02** 전북대학교 소프트웨어공학과 졸업
 
-<br>
 
 ## 💼 Experience
 - **2022.07 ~ 2022.12** 전북대학교 병원 전산정보과 계약직
   - 병원 시스템 개발 및 유지보수 (구매재고/의료장비)
 
-<br>
 
 ## 👨‍💻 Projects
 |<img src="./imgs/moducare.png" alt="" width="150px">|<img src="./imgs/KICKCAP.png" alt="" width="150px">|<img src="./imgs/inMind.png" alt="" width="150px">|<img src="./imgs/starflix.png" alt="" width="150px">|
@@ -31,12 +28,10 @@
 |IoT, BE, AI|BE|BE, Algorithm|BE|
 |두피 탈모 케어 서비스|킥보드 자동 단속 서비스|아동 HTP 심리상담 서비스|별명소 제공 서비스|
 
-<br>
 
 ## 🏆Awards
 2024.11 삼성 청년 SW 아카데미 11기 자율 프로젝트 우수상(1위)
 
-<br>
 
 ## 🏅 Certification
 
@@ -44,7 +39,6 @@
 - **2023.05**      OPIc IM2(InterMediate MID)
 - **2020.11**        정보처리기사
 
-<br>
 
 ## 🛠️ Skills
 
