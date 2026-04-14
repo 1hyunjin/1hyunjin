@@ -35,8 +35,12 @@
 
 ## 🏅 Certification
 
+- **2026.02**      Toeic 820
+- **2025.10**      Toeic Speaking IM3
+- **2026.03**      ADsP
+- **2025.12**      PCCP Lv.4 (Java)
+- **2025.03**      리눅스마스터 2급
 - **2024.06**      SQLD
-- **2023.05**      OPIc IM2(InterMediate MID)
 - **2020.11**        정보처리기사
 
 
